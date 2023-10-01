@@ -1,0 +1,62 @@
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white !important;
+    background: #007bff !important;
+    font-weight: bold !important;
+}
+
+table.dataTable tbody td {
+    white-space: nowrap !important;
+    font-size: 15px !important;
+}
+
+#tbl_productos thead th{
+    white-space: nowrap !important;
+}
+
+.addNewRecord{
+    background-color: #198754 !important;
+    color: white !important;
+}
+
+.buttons-excel{
+    background-color: #0d6efd !important;
+    color: white !important;
+}
+
+.buttons-print{
+    background-color: #ffc107 !important;
+    color: white !important;
+}
+
+.dt-button{
+    padding-top: 5px  !important;
+    padding-bottom: 5px !important;
+}
+
+#tbl_productos tbody tr td{
+    padding: 3px !important;
+}
+
+.transparentbar {
+    background-repeat:no-repeat;
+    cursor:pointer;
+    outline:none;
+    border:none;
+    box-shadow:none; 
+    background-image: none;  
+    background-color: transparent;
+  
+  }
+  
+  .btn-check:focus+.btn-primary, .btn-primary:focus {
+    color: #fff;
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: none !important;
+  }
+  
+  .transparentbar:hover {
+    color: #fff;
+    background-color: transparent !important;
+    border-color: transparent !important;
+  }
